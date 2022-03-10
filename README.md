@@ -1,6 +1,6 @@
 ### Jürgen Kürpig
 
-I'm IT consultant and has been supporting Java-based IT projects in various roles in the areas of architecture, integration, concepts and project methodology for many years.
+I'm IT-Consultant and has been supporting Java-based IT projects in various roles in the areas of architecture, integration, concepts and project methodology for many years.
 
 
 
