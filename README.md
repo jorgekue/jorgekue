@@ -6,7 +6,7 @@ I'm IT consultant and has been supporting Java-based IT projects in various role
 
 ### Getting in touch
 
-Email: jkuerpig@web.de
+Email: jkuerpig@web.de  
 XING: https://www.xing.com/profile/Juergen_Kuerpig
 
 <!--
